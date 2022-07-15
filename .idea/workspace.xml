@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="24febfd2-9a95-41be-871e-5f009b4ea2b1" name="Changes" comment="Cats">
-      <change afterPath="$PROJECT_DIR$/src/Author.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Library.java" afterDir="false" />
+    <list default="true" id="24febfd2-9a95-41be-871e-5f009b4ea2b1" name="Changes" comment="Books">
+      <change afterPath="$PROJECT_DIR$/src/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inspector.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -68,7 +67,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657899316889</updated>
-      <workItem from="1657899319594" duration="9867000" />
+      <workItem from="1657899319594" duration="12186000" />
     </task>
     <task id="LOCAL-00001" summary="Cats">
       <created>1657902558447</created>
@@ -77,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657902558447</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Books">
+      <created>1657919480238</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1657919480239</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,17 +102,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Cats" />
-    <option name="LAST_COMMIT_MESSAGE" value="Cats" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Library.java</url>
-          <line>9</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="Books" />
+    <option name="LAST_COMMIT_MESSAGE" value="Books" />
   </component>
 </project>
