@@ -1,5 +1,10 @@
+import java.util.List;
+
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        List<Cat> cats = List.of(CatHelper.generateRandomCat(),CatHelper.generateRandomCat(),CatHelper.generateRandomCat(),CatHelper.generateRandomCat(),CatHelper.generateRandomCat());
+        System.out.println(cats);
+        CatHelper.catsMove(cats,"Vinnitsa");
+        System.out.println(cats);
     }
 }
